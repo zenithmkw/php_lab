@@ -1,5 +1,5 @@
 <?php
-$name = "Meet";
+$name = "Zenith";
 
 echo "Length:";
 echo strlen($name);
